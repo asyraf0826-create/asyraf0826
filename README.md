@@ -1,29 +1,34 @@
-# Hi 👋, I'm Asyraf (asyraf0826)
+# Hi there! I'm Asyraf 👋 @asyraf0826
 
-### 🚀 About Me
-- 🔭 I’m currently a student/learner explorer.
-- 🌱 Learning the ropes of **GitHub** and **Web Development**.
-- 💬 Ask me about: Getting started with coding!
+<p align="center">
+  <img src="https://capsule-render.vercel.app" />
+</p>
 
----
+### 👨‍💻 About Me
+- 🎓 **Status:** I'm a beginner developer on a journey to learn coding.
+- 🚀 **Learning:** Currently exploring the world of **GitHub** and **Web Technologies**.
+- 💡 **Goal:** To build cool projects and contribute to the community.
 
-### 🛠 Tech Stack (I'm learning these!)
+### 🛠 My Learning Toolkit
 <p align="left">
-  <img src="https://skillicons.dev" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev" />
+  </a>
+</p>
+
+### 📈 Activity Overview
+*(Stats will appear here once you start coding!)*
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app" width="400" />
 </p>
 
 ---
 
-### 📊 My GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app" alt="asyraf0826's GitHub stats" />
+### 📫 Let's Connect!
+- **GitHub:** [asyraf0826](https://github.com)
+- *Add your Social Media links here!*
+
+<p align="center">
+  <img src="https://komarev.com" />
 </p>
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app" alt="Top Langs" />
-</p>
-
----
-
-### 📫 Connect with me:
-[<img src="https://img.shields.io">](PAUTAN_LINKEDIN_ANDA)
